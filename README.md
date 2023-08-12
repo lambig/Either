@@ -1,4 +1,6 @@
 [![Build Status](https://app.travis-ci.com/lambig/Either.svg?token=rcXQxJszfB4WCpwsWNgN&branch=main)](https://app.travis-ci.com/lambig/Either)
+Note: This Repository will be no longer maintained. (Due to confusing name & Neither defection)
+Consider using [Union](https://github.com/lambig/Union);
 # Either<L, R>
 Easy implementation of Union class-like something
 ## Instance Provider
